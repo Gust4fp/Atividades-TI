@@ -1,0 +1,23 @@
+*{
+    height: 100%;
+ }
+  
+  
+ h1{
+     text-align: center;
+     color: blueviolet;
+ }
+  
+ p{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: brown;
+     text-align: center;
+ }
+  
+ body{
+     /*background-image: linear-gradient(to bottom,black,blue,green);*/
+     background-color: #add8e6;
+     background-image: url(6853966.png);
+     background-repeat: no-repeat;
+     background-position: center;
+ }
